@@ -1,2 +1,14 @@
 # zhajinhua-star-archive
-HTML page archive and documentation
+
+资料页面发布仓库
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
